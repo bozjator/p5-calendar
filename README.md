@@ -1,7 +1,9 @@
 # P5 Calendar
 
 Calendar made wtih p5.js  
-It supports dark template or you can easily create your own color template inside of chart-color.ts
+It supports also dark template or you can easily create your own color template inside of chart-color.ts
+
+![Screenshot](p5-calendar.png "Calendar screenshot")
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.0.
 
